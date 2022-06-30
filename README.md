@@ -1,4 +1,4 @@
-### 👋Olá! Eu sou a Ariane
+## 👋Olá! Eu sou a Ariane
 
 - 😄 Seja Bem-Vindo(a) ao meu GitHub!
 - 👩 Sou estudante do curso de Análise e Desenvolvimento de Sistemas
