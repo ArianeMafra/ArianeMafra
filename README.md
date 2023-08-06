@@ -1,8 +1,8 @@
 ## 👋Olá! Eu sou a Ariane
 
 - 😄 Seja Bem-Vindo(a) ao meu GitHub!
-- 👩 Sou formada em Engenharia Química e estudante do curso de Análise e Desenvolvimento de Sistemas
-- 📖 Tenho interesse pelas áreas de desenvolviemnto Back-end e Devops
+- 👩 Sou formada em Engenharia Química e estudante de Análise e Desenvolvimento de Sistemas
+- 📖 Tenho interesse pelas áreas de desenvolvimento Back-end e Devops
 
 
 <div align="center">
