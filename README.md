@@ -1,10 +1,8 @@
 ## 👋Olá! Eu sou a Ariane
 
 - 😄 Seja Bem-Vindo(a) ao meu GitHub!
-- 👩 Sou estudante do curso de Análise e Desenvolvimento de Sistemas
-- 💻 Hoje estou em transição de carreira para a área tech
-- ✨ Futuramente serei uma Desenvolvedora Full Stack
-- 📖 Atualmente estou estudando Java
+- 👩 Sou formada em Engenharia Química e estudante do curso de Análise e Desenvolvimento de Sistemas
+- 📖 Tenho interesse pelas áreas de desenvolviemnto Back-end e Devops
 
 
 <div align="center">
